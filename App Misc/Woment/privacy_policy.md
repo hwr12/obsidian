@@ -41,7 +41,7 @@ Candida  albicans(칸디다곰팡이균),  Chlamydia  trachomatis(클라미디�
 
 3. **연구방법 및 절차**  
 
-![](https://github.com/hwr12/obsidian/blob/5a99508e287bff98ef04171cfb71abf730108005/App%20Misc/Woment/Aspose.Words.8af5698f-f0e8-4805-8660-e9561d9d79d3.001.jpeg)
+![](https://raw.githubusercontent.com/hwr12/obsidian/5a99508e287bff98ef04171cfb71abf730108005/App%20Misc/Woment/Aspose.Words.8af5698f-f0e8-4805-8660-e9561d9d79d3.001.jpeg)
 
 4. **개인정보의 보호 및 보관**: 본 연구 및 개인정보의 수집 및 이용, 제3자 제공에 동의한 경우 개인정보는 철저한 관리하에 보호 관리되며, 연구 개발을 위해 최대 3년까지 보관 후 삭제합 니다. 본 연구 참여는 언제든지 참여의사를 철회할 수 있으며, 이 경우 개인정보 및 임상정보 를 모두 삭제합니다. 
 4. QR 코드나 웹페이지로 접속하여 핸드폰으로 촬영한 이미지를 업로드한 후 질분비물 검사 결 과 제공이 마무리되는 경우 귀하의 핸드폰으로 5,000원 상당의 상품권이 발송됩니다.  
