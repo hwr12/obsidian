@@ -5,7 +5,7 @@
 연구기관: ~ 2025년 12월 31일 
 
 ### **1. 연구목적**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;청소년, 산모를 포함한 가임기 여성을 대상으로 질분비물을 핸드폰으로 손쉽게 촬영하여 질분비물 AI에 이미지를 업로드하여 자동분석하게 함으로써, 질분비물의 질환 여부를 선별하고자 하는 _「인공지능을 이용한 질분비물 선별 검사 도구 개발 연구」_ 입니다. 
+- 청소년, 산모를 포함한 가임기 여성을 대상으로 질분비물을 핸드폰으로 손쉽게 촬영하여 질분비물 AI에 이미지를 업로드하여 자동분석하게 함으로써, 질분비물의 질환 여부를 선별하고자 하는 _「인공지능을 이용한 질분비물 선별 검사 도구 개발 연구」_ 입니다. 
 
 ### **2. 연구대상자**
 - 본 연구에서는 연구대상자 선정기준 및 제외기준은 다음과 같습니다.
@@ -32,8 +32,8 @@
 	   
 	   ⑧  질분비물 검사 결과 
 	    Candida  albicans(칸디다곰팡이균),  Chlamydia  trachomatis(클라미디아),  Gardnerella vaginalis(가드네렐라), Herpes simplex virus type 1(헤르페스 타입1), Herpes simplex virus type 2(헤르페스  타입2),  Mycoplasma  genitalium(마이코플라즈마  제니탈리움),  Mycoplasma hominis(마이코플라즈마  호미니스),  Neisseria  gonorrhoeae(임질),  Treponema  pallidum(매독),  Trichomonas vaginalism(트리코모나스), Ureaplasma parvum(유레아플라즈마 파붐), Ureaplasma urealyticum(유레아플라즈마 유레아리티쿰), bacterial vaginosis(세균성질염), E.coli(대장균), 기타  
-  
-수집된 임상정보를 연구에 사용함에 있어서 귀하의 신원은 절대 밝혀지지 않으며 비밀이 비밀이 보장되며, 임상연구 도중에 동의를 철회하는 경우 임상연구의 참여가 중지됩니다. 
+	    
+  수집된 임상정보를 연구에 사용함에 있어서 귀하의 신원은 절대 밝혀지지 않으며 비밀이 비밀이 보장되며, 임상연구 도중에 동의를 철회하는 경우 임상연구의 참여가 중지됩니다. 
 
 ### **3. 연구방법 및 절차**  
 
