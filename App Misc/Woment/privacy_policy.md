@@ -16,20 +16,21 @@
    2) 다기관 참여: 총 14개 기관으로 연구대상자 총 목표 수 8,000건 
    3) 임상 자료 수집 항목   
 	   ①  연구대상자 나이, 생년(청소년여부 확인하기 위해 필요), 임신여부 
+	   
 	   ②  접속 날짜  
+	   
 	   ③  방문 병원 
-  
-④  월경력: 초경여부, 월경주기, 월경기간 
-  
-  ⑤  이미지 획득전 성관계여부, 자궁경부암검사여부, 자궁경부암백신접종 여부  
-  
-  ⑥  냄새여부: 생선비린내, 고기섞는냄새, 맥주효모냄새  
-  
-  ⑦  가려움증 여부  
-  
-  ⑧  질분비물 검사 결과 
-  
-  Candida  albicans(칸디다곰팡이균),  Chlamydia  trachomatis(클라미디아),  Gardnerella vaginalis(가드네렐라), Herpes simplex virus type 1(헤르페스 타입1), Herpes simplex virus type 2(헤르페스  타입2),  Mycoplasma  genitalium(마이코플라즈마  제니탈리움),  Mycoplasma hominis(마이코플라즈마  호미니스),  Neisseria  gonorrhoeae(임질),  Treponema  pallidum(매독),  Trichomonas vaginalism(트리코모나스), Ureaplasma parvum(유레아플라즈마 파붐), Ureaplasma urealyticum(유레아플라즈마 유레아리티쿰), bacterial vaginosis(세균성질염), E.coli(대장균), 기타  
+	   
+	   ④  월경력: 초경여부, 월경주기, 월경기간 
+	   
+	   ⑤  이미지 획득전 성관계여부, 자궁경부암검사여부, 자궁경부암백신접종 여부  
+	   
+	   ⑥  냄새여부: 생선비린내, 고기섞는냄새, 맥주효모냄새  
+	   
+	   ⑦  가려움증 여부  
+	   
+	   ⑧  질분비물 검사 결과 
+	    Candida  albicans(칸디다곰팡이균),  Chlamydia  trachomatis(클라미디아),  Gardnerella vaginalis(가드네렐라), Herpes simplex virus type 1(헤르페스 타입1), Herpes simplex virus type 2(헤르페스  타입2),  Mycoplasma  genitalium(마이코플라즈마  제니탈리움),  Mycoplasma hominis(마이코플라즈마  호미니스),  Neisseria  gonorrhoeae(임질),  Treponema  pallidum(매독),  Trichomonas vaginalism(트리코모나스), Ureaplasma parvum(유레아플라즈마 파붐), Ureaplasma urealyticum(유레아플라즈마 유레아리티쿰), bacterial vaginosis(세균성질염), E.coli(대장균), 기타  
   
   수집된 임상정보를 연구에 사용함에 있어서 귀하의 신원은 절대 밝혀지지 않으며 비밀이 비밀이 보장되며, 임상연구 도중에 동의를 철회하는 경우 임상연구의 참여가 중지됩니다. 
 
