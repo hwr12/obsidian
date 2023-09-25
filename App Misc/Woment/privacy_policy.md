@@ -10,7 +10,7 @@
 </ul>
 
 ### **2. 연구대상자**
-본 연구에서는 연구대상자 선정기준 및 제외기준은 다음과 같습니다.
+- 본 연구에서는 연구대상자 선정기준 및 제외기준은 다음과 같습니다.
   
   - 선정기준: 연구기관에 내원한 성관계에 노출 가능한 만 13 ~ 55세 여성 중 본 연구에 전자동 의하고 서명한 산모를 포함한 청소년부터 가임기 여성
   - 제외기준: 연구에 동의하지 않는 대상자  
@@ -36,8 +36,8 @@
 	   ⑧  질분비물 검사 결과 
 	    Candida  albicans(칸디다곰팡이균),  Chlamydia  trachomatis(클라미디아),  Gardnerella vaginalis(가드네렐라), Herpes simplex virus type 1(헤르페스 타입1), Herpes simplex virus type 2(헤르페스  타입2),  Mycoplasma  genitalium(마이코플라즈마  제니탈리움),  Mycoplasma hominis(마이코플라즈마  호미니스),  Neisseria  gonorrhoeae(임질),  Treponema  pallidum(매독),  Trichomonas vaginalism(트리코모나스), Ureaplasma parvum(유레아플라즈마 파붐), Ureaplasma urealyticum(유레아플라즈마 유레아리티쿰), bacterial vaginosis(세균성질염), E.coli(대장균), 기타  
   
-  $\quad$수집된 임상정보를 연구에 사용함에 있어서 귀하의 신원은 절대 밝혀지지 않으며 비밀이 비밀이 보장되며, 임상연구 도중에 동의를 철회하는 경우 임상연구의 참여가 중지됩니다. 
-</ul
+수집된 임상정보를 연구에 사용함에 있어서 귀하의 신원은 절대 밝혀지지 않으며 비밀이 비밀이 보장되며, 임상연구 도중에 동의를 철회하는 경우 임상연구의 참여가 중지됩니다. 
+
 ### **3. 연구방법 및 절차**  
 
 ![](https://raw.githubusercontent.com/hwr12/obsidian/5a99508e287bff98ef04171cfb71abf730108005/App%20Misc/Woment/Aspose.Words.8af5698f-f0e8-4805-8660-e9561d9d79d3.001.jpeg)
