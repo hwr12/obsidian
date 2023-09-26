@@ -26,6 +26,7 @@ Non-organic users are attributed to the media source motivating the install or e
 
 ## Organic vs. non-organic
 
-| Organic. | non - organic |
-| ------- | ------------- |
-| **No attribution** due to the following:App was installed without using an attribution link. For example, when the user downloads the app from your site or the app store without engaging with an ad first. Click and app launch couldn't be matched. For example, when data is not available due to privacy policy, or install was attributed by a different MMP first. | |        
+| Organic.                                                                                                                                                                                                                                                                                                                                                                  | non - organic |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| **No attribution** due to the following:App was installed without using an attribution link. For example, when the user downloads the app from your site or the app store without engaging with an ad first. Click and app launch couldn't be matched. For example, when data is not available due to privacy policy, or install was attributed by a different MMP first. |               |
+|                                                                                                                                                                                                                                                                                                                                                                           |               |
