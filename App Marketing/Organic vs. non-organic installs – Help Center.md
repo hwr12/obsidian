@@ -26,3 +26,6 @@ Non-organic users are attributed to the media source motivating the install or e
 
 ## Organic vs. non-organic
 
+| Organic | non - organic |
+| ------- | ------------- |
+|         |               |
