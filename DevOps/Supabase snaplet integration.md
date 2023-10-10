@@ -1,3 +1,6 @@
+---
+tags: dev, devOps, 창업
+---
 
 # Supabase
 
@@ -283,6 +286,7 @@ You may run into problems restoring to a Supabase project hosted in the cloud. T
 
 To get around this, run the `restore` command with the `--no-reset` flag, e.g:
 
+이거 개 중요!!
 ```bash >_&nbsp;terminal
 snaplet snapshot restore --no-reset
 ```
